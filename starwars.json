@@ -1,0 +1,130 @@
+[
+    {
+      "name" : "luke skywalker",
+      "gender" : "male",
+      "height" : "172",
+      "birth_year" : "19BBY",
+      "image" : "luke.jpg",
+      "type" : "buenos"
+    },
+    {
+        "name" : "c-3po",
+        "gender" : "n/a",
+        "height" : "167",
+        "birth_year" : "112BBY",
+        "image" : "c3po.jpg",
+        "type" : "androides"
+    },
+    {
+        "name" : "r2-d2",
+        "gender" : "n/a",
+        "height" : "96",
+        "birth_year" : "33BBY",
+        "image" : "r2d2.jpg",
+        "type" : "androides"
+    },
+    {
+        "name" : "darth vader",
+        "gender" : "male",
+        "height" : "202",
+        "birth_year" : "41.9BBY",
+        "image" : "vader.jpg",
+        "type" : "malos"
+    },
+    {
+        "name" : "leia organa",
+        "gender" : "female",
+        "height" : "150",
+        "birth_year" : "19BBY",
+        "image" : "leia.jpg",
+        "type" : "buenos"
+    },
+    {
+        "name" : "obi-wan kenobi",
+        "gender" : "male",
+        "height" : "182",
+        "birth_year" : "57BBY",
+        "image" : "kenobi.jpg",
+        "type" : "buenos"
+    },
+    {
+        "name" : "chewbacca",
+        "gender" : "male",
+        "height" : "228",
+        "birth_year" : "200BBY",
+        "image" : "chewi.jpg",
+        "type" : "buenos"
+    },
+    {
+        "name" : "han solo",
+        "gender" : "male",
+        "height" : "180",
+        "birth_year" : "29BBY",
+        "image" : "solo.jpg",
+        "type" : "buenos"
+    },
+    {
+        "name" : "greedo",
+        "gender" : "male",
+        "height" : "173",
+        "birth_year" : "44BBY",
+        "image" : "greedo.jpg",
+        "type" : "malos"
+    },
+    {
+        "name" : "jabba",
+        "gender" : "hermaphrodite",
+        "height" : "175",
+        "birth_year" : "600BBY",
+        "image" : "jabba.jpg",
+        "type" : "malos"
+    },
+    {
+        "name" : "yoda",
+        "gender" : "male",
+        "height" : "66",
+        "birth_year" : "896BBY",
+        "image" : "yoda.jpg",
+        "type" : "buenos"
+    },
+    {
+        "name" : "ig-88",
+        "gender" : "n/a",
+        "height" : "200",
+        "birth_year" : "15BBY",
+        "image" : "ig88.jpg",
+        "type" : "androides"
+    },
+    {
+        "name" : "lando calrissian",
+        "gender" : "male",
+        "height" : "177",
+        "birth_year" : "31BBY",
+        "image" : "lando.jpg",
+        "type" : "buenos"
+    },
+    {
+        "name" : "darth maul",
+        "gender" : "male",
+        "height" : "175",
+        "birth_year" : "54BBY",
+        "image" : "maul.jpg",
+        "type" : "malos"
+    },
+    {
+        "name" : "dooku",
+        "gender" : "male",
+        "height" : "193",
+        "birth_year" : "102BBY",
+        "image" : "dooku.jpg",
+        "type" : "malos"
+    },
+    {
+        "name" : "r4-p17",
+        "gender" : "n/a",
+        "height" : "96",
+        "birth_year" : "unknown",
+        "image" : "r4p17.jpg",
+        "type" : "androides"
+    }
+  ]
